@@ -1,0 +1,87 @@
+DNS : Domain Name System.
+HTTP : Hyper Text Transfer Protocol.
+HTTPs :Hyper Text Transfer Protocol secure.
+Protocol Defination :Protocol is a set of rules .
+URL:Uniform resource locator.
+https://www.amazon.in/-->
+https=Protocol,www=subDomain,amazon=Domain Name,.in=TopDoamin
+W3C : World Wibe Web Consortium...
+SEO:Searce Engine Optimization
+{SDLC: software Devlopment Lifecycle---
+1.PLANNING -->ANALYSIS-->DESIGN-->IMPLEMENTATION-->TESTING & INTEGRATION-->MAINTANANCE.}
+
+HTML:-Hyper Text Markup Langauge
+<>--->Angle 
+{}	curly bracket
+[]  square 
+
+Structure :-<!DOCTYPE html> 
+			<html>
+				<head>
+					<title>
+					
+					</title>
+				</head>
+					<body>	
+					
+					</body>
+			</html>					
+	HTML is not a kesensitive langauge
+	Heading tag <h1>to<h6>
+	<p>=Paragraph Tag
+	<b>Bold Tag or <strong Tag>
+	<i>Italic Tag or <em>Emphasized
+	<u>Underline Tag or <ins>
+	<strike>or <del>
+	<br>Breake Line
+	<hr>Horizontal Line
+	<Marquee>Marquee Tag
+	Block level element 100% with of the page.
+	Anchor Tag <a href=" link active Kar mate">Home</a> Link Mate
+	Target =1._blank 2._top 3.parent 4.self
+	pic ne link bnava mate <a href=" link active Kar mate"><img src="" alt=""></a>
+	
+	image-map.net 
+	
+	fevicone icon =icon lavva mate no tag(<link rel="icon" href="image Address">
+	
+	copyright symbol mate =&copy;
+	dollar = $copy; etc.....
+	
+	1st site icon mate -font awesome cdn
+	2nd site font awesome
+	
+	List :- there are 3 type of List 
+	1.OL order List  (Type =I,i,A,a,Numeric)
+	2.UL Unorder List (Type = Square,disc,circle,non)
+	3.DL Discription List(DT=Data Term, DD=Data Defination)
+	
+	void element closing tag no hoi
+	inline element 100% width
+	block element text hoi atlu cover...
+	
+	space mate = &nbsp;
+	
+	------------------------------Table--------------------------------------------
+	Table Tag to create a table
+	tr tag to create a row 
+	td or th to crete a column in a row
+	td=table data
+	th=table heading
+	tr*7>td*9 short
+	<pre>Pre Defined Tag</pre>
+	
+	<p><font color="red" face="verdana" size="5">HIren Dhandhukiya</font>
+	cellpadding to give a space inner side of the cell
+	cellspacing to give a space outer side of the space
+	
+	--------------------------------------------FORM--------------------------------
+	
+	input type:text,checkbox,radio,color,file,number,email,password,submit,reset,date,
+	datetime-local,url,month,range.
+	
+	dropdown mate=select tag ni andr option></option>
+	
+	attribute:- value, selected,disabled,placeholder,required
+	
+	
